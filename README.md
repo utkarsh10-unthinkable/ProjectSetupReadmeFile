@@ -24,7 +24,7 @@ C.Understanding of how to write sql command,Create Stored Procedures.
 
 ### 4.Project SetUp Steps:
 ```
-  A.Connect the Databse with the credentials provide By Client and before connecting check wheather 
+  A.Connect the Database with the credentials provide By Client and before connecting check wheather 
   you have an active connection with SSL VPN Client
   B.Clone the project from Bitbucket.
   C.Checkout to the development branch.
