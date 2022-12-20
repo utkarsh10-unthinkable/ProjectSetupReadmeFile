@@ -24,20 +24,20 @@ C.Understanding of how to write sql command,Create Stored Procedures.
 
 ### 4.Project Setup Steps:
 
-  -Connect the Database with the credentials provide By Client and before connecting check wheather 
+  - Connect the Database with the credentials provide By Client and before connecting check wheather 
   you have an active connection with SSL VPN Client
-  -Clone the project from Bitbucket.
-  -Checkout to the development branch.
-  -Take pull from the development branch.
-  -Check git status,It should be already up to date.
-  -Open Visual Studio click "Continue without code ->"
-  -In Menu Section Click on "File->Open->Web Site".
-  H.Open the project directory (Cloned in Step-1)
-  I.Starting the project, it will give an error "Solution is not saved. Please save your solution before 
+  - Clone the project from Bitbucket.
+  - Checkout to the development branch.
+  - Take pull from the development branch.
+  - Check git status,It should be already up to date.
+  - Open Visual Studio click "Continue without code ->"
+  - In Menu Section Click on "File->Open->Web Site".
+  - Open the project directory (Cloned in Step-1)
+  - Starting the project, it will give an error "Solution is not saved. Please save your solution before 
   managing NuGet packages."
-  J.Close Visual Studio without closing the project. It will ask to save the solution.
-  K.Save the solution outside the Cloned project directory.
-  L.Now go to the Solution directory, and click on solution. It will open the project in Visual Studio.
-  M.Start project, continue with the last successful build.
+  - Close Visual Studio without closing the project. It will ask to save the solution.
+  - Save the solution outside the Cloned project directory.
+  - Now go to the Solution directory, and click on solution. It will open the project in Visual Studio.
+  - Start project, continue with the last successful build.
 
 
