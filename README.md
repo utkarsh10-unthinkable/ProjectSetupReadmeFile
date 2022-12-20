@@ -30,8 +30,8 @@ C.Understanding of how to write sql command,Create Stored Procedures.
   - Checkout to the development branch.
   - Take pull from the development branch.
   - Check git status,It should be already up to date.
-  - Open Visual Studio click "Continue without code ->"
-  - In Menu Section Click on "File->Open->Web Site".
+  - Open Visual Studio click **"Continue without code ->"**
+  - In Menu Section Click on **"File->Open->Web Site"**
   - Open the project directory (Cloned in Step-1)
   - Starting the project, it will give an error "Solution is not saved. Please save your solution before 
   managing NuGet packages."
